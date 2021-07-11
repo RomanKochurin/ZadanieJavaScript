@@ -1,0 +1,4 @@
+const BIRTHDAY = '18.04.1982'; //так можно, 
+
+
+const age = someCode(BIRTHDAY); //так нужно т.к она является константой
